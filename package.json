@@ -1,5 +1,5 @@
 {
-  "name": "Alpha X Gz Botzz",
+  "name": "Raja BotZ assisten",
   "version": "0.0.1",
   "description": "Gz Botz",
   "main": "node .",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "Alpha Botzz",
+  "author": "Raja BotZ",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",

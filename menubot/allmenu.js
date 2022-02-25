@@ -327,7 +327,7 @@ return`━━֍  〔 🪀 _*BY ${botName}*_ 🪀〕
 ║│${prefix}herolist「 Mobile Legends 」
 ║│${prefix}googlesearch 「 Terserah 」
 ╠══════════════════════╡
-║     By *ZeilBotz*
+║   by *Raja BotZ*
 ╚══════════════════════╡`
 }
 exports.menunya = menunya
